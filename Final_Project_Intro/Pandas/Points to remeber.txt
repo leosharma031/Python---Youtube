@@ -1,0 +1,14 @@
+1. Access the data drops the NaN values
+
+df.loc[:, 'salary_rate':'salary_hour_avg'].dropna(subset='salary_rate')
+
+===========================================================================================================
+
+
+2.Saves top 15 values from index 0 that have united_states in them and also that are Valid salaries 
+
+United_States_jobs = df[(df.job_country =='United States') & (df.salary_year_avg > 0)].head(15) 
+
+
+
+===========================================================================================================
