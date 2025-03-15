@@ -38,7 +38,7 @@ Python: The backbone of my analysis, allowing me to analyze the data and find cr
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles.
 This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
 
-View my notebook with detailed steps here: [2_Skills_Count.ipynb](Final_Project_Intro\Final_Project\2_Skills_Count.ipynb)
+View my notebook with detailed steps here: [2_Skills_Count.ipynb](Final_Project_Intro/Final_Project/2_Skills_Count.ipynb)
 
 ## Visualize Data
 
@@ -123,7 +123,7 @@ for i in range(5):
 
 ### Results
 
-![Trending Top Skills for Data Analysis in the US](Final_Project_Intro\Final_Project\Skills_Trend_For_Data_Analysis.png)
+![Trending Top Skills for Data Analysis in the US](Final_Project_Intro/Final_Project/Skills_Trend_For_Data_Analysis.png)
 
 
 ### Insight
@@ -169,7 +169,7 @@ plt.show()
 ```
 
 #### Results
-![Salary Distribution of Data Jobs in the US](Final_Project_Intro\Final_Project\Salary_Analysis.png)
+![Salary Distribution of Data Jobs in the US](Final_Project_Intro/Final_Project/Salary_Analysis.png)
 
 
 
@@ -237,7 +237,7 @@ plt.show()
 ## Results
 Breakdown of Highest Paid & most in deman skills for Data Analyst in US
 
-![Highest Paid & most in deman skills for Data Analyst in US](Final_Project_Intro\Final_Project\Top_skills_and_top_pay.png)
+![Highest Paid & most in deman skills for Data Analyst in US](Final_Project_Intro/Final_Project/Top_skills_and_top_pay.png)
 
 
 ## Insights
@@ -311,7 +311,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Most Optimal Skills for Data Analyst in the US](Final_Project_Intro\Final_Project\OptimalSkill.png)
+![Most Optimal Skills for Data Analyst in the US](Final_Project_Intro/Final_Project/OptimalSkill.png)
 
 ## Insights:
 
